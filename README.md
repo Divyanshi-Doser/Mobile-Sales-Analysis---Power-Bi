@@ -55,4 +55,4 @@ The dashboard empowers decision-makers to:
 - Identify high-performing sales regions and channels  
 - Understand customer demographics and preferences  
 - Optimize inventory based on best-selling models and payment trends
-- 
+  
